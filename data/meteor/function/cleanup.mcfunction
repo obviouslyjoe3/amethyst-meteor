@@ -1,0 +1,6 @@
+kill @e[type=marker,tag=meteor_site]
+kill @e[type=marker,tag=meteor_walker]
+kill @e[type=marker,tag=meteor_grower]
+kill @e[type=marker,tag=meteor_center]
+kill @e[type=block_display,tag=meteor_rock]
+kill @e[type=block_display,tag=meteor_shard]

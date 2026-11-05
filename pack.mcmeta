@@ -1,0 +1,13 @@
+{
+ "pack": {
+  "description": "Amethyst Meteor v2",
+  "min_format": [
+   100,
+   0
+  ],
+  "max_format": [
+   130,
+   0
+  ]
+ }
+}
